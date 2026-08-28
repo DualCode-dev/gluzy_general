@@ -1,6 +1,6 @@
 # 🤝 Guía de Contribución para el Equipo
 
-¡Bienvenido al equipo de **GluV.IA**! Esta guía te ayudará a integrarte rápidamente y empezar a contribuir eficazmente.
+¡Bienvenido al equipo de **Gluzy**! Esta guía te ayudará a integrarte rápidamente y empezar a contribuir eficazmente.
 
 ---
 
