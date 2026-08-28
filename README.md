@@ -1,15 +1,15 @@
-# 🩸 GluV.IA - Documentación Central
+# 🩸 Gluzy - Documentación Central
 
-Bienvenidos al repositorio principal de **GluV.IA**, el ecosistema de software multiplataforma para la gestión de la diabetes y la recaudación de donaciones.
+Bienvenidos al repositorio principal de **Gluzy**, el ecosistema de software multiplataforma para la gestión de la diabetes y la recaudación de donaciones.
 
 Este repositorio es la **fuente de la verdad** para los 30 miembros del equipo. Aquí no hay código ejecutable, sino los cimientos de nuestra arquitectura.
 
 ## 🚀 Ecosistema de Repositorios
 Nuestro código está dividido en:
-1. **[gluvia-android](https://github.com/DualCode-dev):** App móvil nativa/multiplataforma.
-2. **[gluvia-backend](https://github.com/DualCode-dev):** API central y base de datos PostgreSQL.
-3. **[gluvia-web-publica](https://github.com/DualCode-dev):** Landing page y portal de donaciones.
-4. **[gluvia-web-admin](https://github.com/DualCode-dev):** Dashboard de administración interno.
+1. **[gluzy-android](https://github.com/DualCode-dev):** App móvil nativa/multiplataforma.
+2. **[gluzy-backend](https://github.com/DualCode-dev):** API central y base de datos PostgreSQL.
+3. **[gluzy-web-publica](https://github.com/DualCode-dev):** Landing page y portal de donaciones.
+4. **[gluzy-web-admin](https://github.com/DualCode-dev):** Dashboard de administración interno.
 
 ## 📚 Por dónde empezar
 Si acabas de unirte al proyecto:
@@ -23,7 +23,7 @@ Si acabas de unirte al proyecto:
 
 ## 📁 Estructura del Repositorio
 ```plaintext
-GluV.IA_General/
+Gluzy_General/
 ├── 📂 api-contracts/     # Contratos de API (OpenAPI / Swagger)
 │   └── openapi.yaml
 ├── 📂 database/          # Esquema de base de datos PostgreSQL y diagramas
