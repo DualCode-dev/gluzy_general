@@ -1,11 +1,11 @@
-# 🎨 Guía de Diseño UI/UX - GluV.IA
+# 🎨 Guía de Diseño UI/UX - Gluzy
 
 Este documento centraliza los recursos gráficos, enlaces de Figma, paleta de colores y componentes visuales para mantener coherencia en la App Móvil y en las Plataformas Web.
 
 ---
 
 ## 🔗 1. Enlaces Oficiales de Figma
-- **Figma Móvil (gluvia-android):** `[Enlace al tablero de Figma](https://figma.com)`
+- **Figma Móvil (gluzy-android):** `[Enlace al tablero de Figma](https://figma.com)`
 - **Figma Web Pública & Admin:** `[Enlace al tablero de Figma](https://figma.com)`
 
 ---
@@ -14,7 +14,7 @@ Este documento centraliza los recursos gráficos, enlaces de Figma, paleta de co
 
 | Color | Hex | Uso |
 | :--- | :--- | :--- |
-| **Primary (Rojo GluV.IA)** | `#E63946` | Botones de acción, alertas críticas, acentos |
+| **Primary (Rojo Gluzy)** | `#E63946` | Botones de acción, alertas críticas, acentos |
 | **Secondary (Azul Calma)** | `#1D3557` | Barras de navegación, encabezados, botones secundarios |
 | **Surface Light** | `#F8F9FA` | Fondo principal modo claro |
 | **Surface Dark** | `#121212` | Fondo principal modo oscuro |
