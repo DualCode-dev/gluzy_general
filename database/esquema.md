@@ -1,6 +1,6 @@
 # 🗄️ Esquema de Base de Datos - PostgreSQL
 
-Este documento describe las entidades principales, relaciones y estructura de tablas para **GluV.IA**.
+Este documento describe las entidades principales, relaciones y estructura de tablas para **Gluzy**.
 
 ---
 
