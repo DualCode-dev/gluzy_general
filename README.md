@@ -38,3 +38,6 @@ Gluzy_General/
 ├── CONTRIBUTING.md       # Guía rápida para empezar a trabajar
 └── README.md             # Portada principal del proyecto
 ```
+
+
+Prueba para ver si se actualiza el archivo README.md
